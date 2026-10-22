@@ -1,0 +1,2 @@
+# app-ads.txt for apps by Mohannad Abdelkarim (Tumbledown!, https://apps.apple.com/app/id6824040029)
+# The ad network lines (AppLovin, Google, Unity) are added when the in-app ads launch in a later version.
